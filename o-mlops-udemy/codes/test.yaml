@@ -1,0 +1,24 @@
+# Hey This is a yaml
+my-course: AWS AI 
+version: 1.0
+price: 299
+is_public: true
+release-date: 2024-01-19
+pre_enroll: null
+category:
+ - AWS
+ - AI
+course_dev: [Ravi, Sourav, Shalu]
+dev_details:
+ - name: Ravi
+   email: ravi.31@gmail.com
+ - name: Sourav
+   email: sourav@gmail.com
+short_description: >
+ This is a course for 
+ AWS AI Professionsals.
+
+detailed_description: |
+ This is a multiline string which 
+ will be treated like a multiline string, 
+ unlike previous examples.

@@ -1,0 +1,1 @@
+arn:aws:sns:us-east-1:992219819011:step_func_sns
